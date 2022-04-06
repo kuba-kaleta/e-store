@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SKLEP</title>
+</head>
+<body>
+    <h1> Sklep </h1>
+    <h3> e-commerce </h3>
+    {% for kat in kategorie %}
+
+    <p><a href = "kategoria/{{ kat.id }}"> {{kat.nazwa }} </a> </p>
+
+    {% endfor %}
+</body>
+</html>
