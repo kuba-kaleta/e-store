@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb707e0f-1106-4da1-a2d7-2f7305cebe9f" name="Changes" comment="new django project impr">
-      <change afterPath="$PROJECT_DIR$/store/Products/templates/produkt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/Products/templates/szablon.html" afterDir="false" />
+    <list default="true" id="bb707e0f-1106-4da1-a2d7-2f7305cebe9f" name="Changes" comment="products, categories, produces">
+      <change afterPath="$PROJECT_DIR$/store/Products/templates/kategoria_produkt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/Products/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/Products/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/Products/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/Products/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/Products/templates/produkt.html" beforeDir="false" afterPath="$PROJECT_DIR$/store/Products/templates/produkt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/Products/templates/szablon.html" beforeDir="false" afterPath="$PROJECT_DIR$/store/Products/templates/szablon.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/store/Products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/Products/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/store/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/store/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/store/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649187855712</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="products, categories, produces">
+      <created>1649263487771</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649263487771</updated>
+    </task>
+    <task id="LOCAL-00004" summary="products, categories, produces">
+      <created>1649263504559</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649263504559</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,7 +121,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new django project" />
     <MESSAGE value="new django project impr" />
-    <option name="LAST_COMMIT_MESSAGE" value="new django project impr" />
+    <MESSAGE value="products, categories, produces" />
+    <option name="LAST_COMMIT_MESSAGE" value="products, categories, produces" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
