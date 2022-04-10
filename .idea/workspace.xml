@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb707e0f-1106-4da1-a2d7-2f7305cebe9f" name="Changes" comment="products, categories, produces">
-      <change afterPath="$PROJECT_DIR$/store/Products/templates/kategoria_produkt.html" afterDir="false" />
+    <list default="true" id="bb707e0f-1106-4da1-a2d7-2f7305cebe9f" name="Changes" comment="html templates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/Products/templates/produkt.html" beforeDir="false" afterPath="$PROJECT_DIR$/store/Products/templates/produkt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/Products/templates/szablon.html" beforeDir="false" afterPath="$PROJECT_DIR$/store/Products/templates/szablon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/Products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/Products/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/store/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649263504559</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="html templates">
+      <created>1649269248860</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649269248860</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,7 +124,8 @@
     <MESSAGE value="new django project" />
     <MESSAGE value="new django project impr" />
     <MESSAGE value="products, categories, produces" />
-    <option name="LAST_COMMIT_MESSAGE" value="products, categories, produces" />
+    <MESSAGE value="html templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="html templates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
